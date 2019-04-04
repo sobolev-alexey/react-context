@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# production
+/build
+.firebase
+
+# misc
+.DS_Store
+
+# log files
+yarn-debug.log
+yarn-error.log
+firebase-debug.log
